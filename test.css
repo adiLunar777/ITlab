@@ -1,0 +1,14 @@
+body {
+
+background-image:url('index.jpeg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+
+
+
+}
+h1 {
+color : maroon;
+font-size:400%;
+text-align:center;
+}
